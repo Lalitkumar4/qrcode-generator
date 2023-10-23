@@ -1,0 +1,17 @@
+{
+  "name": "qrcode-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./public/css/main.css",
+    "watch": "tailwindcss -i ./src/input.css -o ./public/css/main.css --watch",
+    "minify": "tailwindcss -i ./src/input.css -o ./public/css/main.css --minify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
