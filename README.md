@@ -1,6 +1,6 @@
 # QR Code Generator
 
-This simple web app allows you to quickly generate and download QR codes for your URLs that may be shared.
+This web app allows you to quickly generate and download QR codes for your URLs that may be shared.
 
 ## Features
 - Custom QR Code Size: You can change the QR code size.
